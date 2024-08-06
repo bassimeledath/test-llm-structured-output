@@ -38,7 +38,7 @@ To get started with the notebooks in this repository, follow these steps:
    ```
 
 4. **Set up keys in environment:** 
-Create a `.env` file with your OPENAI_API_KEY="sk...". You may additionally need a WANDB_API_KEY depending on how you set things up. Follow along here: [Weave docs](https://wandb.github.io/weave/quickstart)
+Create a `.env` file with your `OPENAI_API_KEY="sk...".` You may additionally need a `WANDB_API_KEY` depending on how you set things up. Follow along here: [Weave docs](https://wandb.github.io/weave/quickstart)
 
 5. **Run the Jupyter Notebook!**
 
