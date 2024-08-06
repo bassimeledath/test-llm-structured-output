@@ -2,7 +2,9 @@
 
 ![Weave Dashboard](weave.png)
 
-This repository is dedicated to evaluating 4 options for structured Large Language Model (LLM) output using Weave. All options use GPT 4o as the base model:
+If you haven't had your fair share of headaches trying to get your LLM output to follow the structure you desire (say, JSON), then you haven't been in the game long enough!
+
+This repository is dedicated to evaluating/comparing 4 options for structured Large Language Model (LLM) output using Weave. All options use GPT 4o as the base model:
 
 1. Zero-shot (with JSON mode)
 2. Few-shot (with JSON mode)
@@ -51,7 +53,7 @@ Create a `.env` file with your `OPENAI_API_KEY="sk...".` You may additionally ne
 
 ## Verdict
 
-- For most use cases, working with GPT-4o with the enabled JSON schema forcing parameter and few-shot examples should suffice. You may need additional logic to process the output of the completion API to enforce or cast string types to your desired type (e.g., casting age to an integer). If you're comfortable adding Instructor as a dependency, it is super easy to implement and is effective. Output structuring and forcing, which was a bigger headache with GPT-3.5-turbo, seems to be much better with these newer models, and this trend will likely continue.
+- For most use cases, working with GPT-4o with the enabled JSON schema forcing parameter and few-shot examples should suffice. You may need additional logic to process the output of the completion API to enforce or cast string types to your desired type (e.g., casting age to an integer). If you're comfortable adding Instructor as a dependency, it is super easy to implement and is effective. Output structuring and forcing, which was super annoying with GPT-3.5-turbo, seems to be much better with these newer models, and this trend will likely continue.
 - Weave is great for evaluations, especially for comparing different models. Highly recommend!
 
 ## Limitations of Analysis
