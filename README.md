@@ -18,6 +18,8 @@ They are compared against the following 4 metrics:
 3. Completeness: whether the output adheres to the Pydantic BaseModel structure specified.
 4. Accuracy: whether the values extracted are based on the context provided. I use an LLM as a judge here so take the result of this metric with a serving of salt.
 
+Some further context: I have a directory of text files, each file containing text from a resume. I then feed this as input to the model with the goal of extracting structure information from the resume.
+
 ## Getting Started
 
 To get started with the notebooks in this repository, follow these steps:
