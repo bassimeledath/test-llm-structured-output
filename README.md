@@ -16,7 +16,7 @@ They are compared against the following 4 metrics:
 1. Latency
 2. Tokens consumed
 3. Completeness: whether the output adheres to the Pydantic BaseModel structure specified.
-4. Accuracy: whether the values extracted are based on the context provided.
+4. Accuracy: whether the values extracted are based on the context provided. I use an LLM as a judge here so take the result of this metric with a serving of salt.
 
 ## Getting Started
 
@@ -44,12 +44,15 @@ Create a `.env` file with your `OPENAI_API_KEY="sk...".` You may additionally ne
 
 5. **Run the Jupyter Notebook!**
 
+## Results
+
+![Results](results.png)
+
 ## Findings
 
 - GPT-4o's performance with zero-shot prompting is impressive at adhering to structure. The output can be unpacked and fed into an instance of `ResumeInfo` without issues. However, it is inconsistent in the formatting of values. For instance, it might extract the education of a user as “Duke BS, 2012-2016” in one case and “B.S. Duke, 2012-2016” in another. This inconsistency can only be resolved with few-shot prompting.
 - Instructor and Marvin work well out of the box, with added inference latency being negligible.
 - Marvin is accurate but consumes many tokens. Instructor is efficient and very easy to implement.
-- Using LLM as a judges requires improvement, either by way of better prompting, or even better, get ground truth labels for what the output should look like and use those. It's easy to define scorer functions in Weave.
 
 ## Verdict
 

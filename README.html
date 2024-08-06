@@ -87,7 +87,8 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <figcaption class="figure-caption">Weave Dashboard</figcaption>
 </figure>
 </div>
-<p>This repository is dedicated to evaluating 4 options for structured Large Language Model (LLM) output using Weave. All options use GPT 4o as the base model:</p>
+<p>If you haven’t had your fair share of headaches trying to get your LLM output to follow the structure you desire (say, JSON), then you haven’t been in the game long enough!</p>
+<p>This repository is dedicated to evaluating/comparing 4 options for structured Large Language Model (LLM) output using Weave. All options use GPT 4o as the base model:</p>
 <ol type="1">
 <li>Zero-shot (with JSON mode)</li>
 <li>Few-shot (with JSON mode)</li>
@@ -113,30 +114,30 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <span id="cb2-2"><a href="#cb2-2" aria-hidden="true" tabindex="-1"></a> <span class="bu">source</span> venv/bin/activate  <span class="co"># On Windows, use `venv\Scripts\activate`</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div></li>
 <li><p><strong>Install the required packages:</strong></p>
 <div class="sourceCode" id="cb3"><pre class="sourceCode sh code-with-copy"><code class="sourceCode bash"><span id="cb3-1"><a href="#cb3-1" aria-hidden="true" tabindex="-1"></a> <span class="ex">pip</span> install <span class="at">-r</span> requirements.txt</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div></li>
-<li><p><strong>Set up keys in environment:</strong> hello</p></li>
+<li><p><strong>Set up keys in environment:</strong> Create a <code>.env</code> file with your <code>OPENAI_API_KEY="sk...".</code> You may additionally need a <code>WANDB_API_KEY</code> depending on how you set things up. Follow along here: <a href="https://wandb.github.io/weave/quickstart">Weave docs</a></p></li>
 <li><p><strong>Run the Jupyter Notebook!</strong></p></li>
 </ol>
 </section>
 <section id="findings" class="level2">
 <h2 class="anchored" data-anchor-id="findings">Findings</h2>
 <ul>
-<li>GPT-4o’s zero-shot prompting is impressive at adhering to structure. It can unpack dictionaries to create an instance of <code>ResumeInfo</code> without issues. However, it is inconsistent in the formatting of values. For instance, it might extract the education of a user as “Duke BS, 2012-2016” in one case and “B.S. Duke, 2012-2016” in another. This inconsistency can only be resolved with few-shot prompting.</li>
+<li>GPT-4o’s performance with zero-shot prompting is impressive at adhering to structure. The output can be unpacked and fed into an instance of <code>ResumeInfo</code> without issues. However, it is inconsistent in the formatting of values. For instance, it might extract the education of a user as “Duke BS, 2012-2016” in one case and “B.S. Duke, 2012-2016” in another. This inconsistency can only be resolved with few-shot prompting.</li>
 <li>Instructor and Marvin work well out of the box, with added inference latency being negligible.</li>
 <li>Marvin is accurate but consumes many tokens. Instructor is efficient and very easy to implement.</li>
-<li>Using LLMs as judges requires improvement, as ground truth labels are needed for better accuracy comparison.</li>
+<li>Using LLM as a judges requires improvement, either by way of better prompting, or even better, get ground truth labels for what the output should look like and use those. It’s easy to define scorer functions in Weave.</li>
 </ul>
 </section>
 <section id="verdict" class="level2">
 <h2 class="anchored" data-anchor-id="verdict">Verdict</h2>
 <ul>
-<li>For most use cases, working with plain GPT-4o with the enabled JSON schema forcing parameter and few-shot examples should suffice. You may need additional logic to process the output of the completion API to enforce or cast string types to your desired type (e.g., casting age to an integer). If you’re comfortable adding Instructor as a dependency, it is super easy to implement and effective. Output structuring and forcing, which was a bigger headache with GPT-3.5-turbo, seems to be much better with these newer models, and this trend will likely continue.</li>
-<li>Weave is excellent for evaluations, especially for comparing different models. Highly recommended!</li>
+<li>For most use cases, working with GPT-4o with the enabled JSON schema forcing parameter and few-shot examples should suffice. You may need additional logic to process the output of the completion API to enforce or cast string types to your desired type (e.g., casting age to an integer). If you’re comfortable adding Instructor as a dependency, it is super easy to implement and is effective. Output structuring and forcing, which was super annoying with GPT-3.5-turbo, seems to be much better with these newer models, and this trend will likely continue.</li>
+<li>Weave is great for evaluations, especially for comparing different models. Highly recommend!</li>
 </ul>
 </section>
 <section id="limitations-of-analysis" class="level2">
 <h2 class="anchored" data-anchor-id="limitations-of-analysis">Limitations of Analysis</h2>
 <ul>
-<li>This analysis is limited to GPT-4o, a closed-source model. Several packages handle output structuring for open-source models in a more low-level manner. That is a topic for another day. GPT-4o is a very advanced model, and I am interested in replicating this analysis with a smaller model.</li>
+<li>This analysis is limited to GPT-4o, a closed-source model. Several other python packages handle output structuring for open-source models in a more low-level manner. That is an analysis for another day. GPT-4o is a very good model, and I am interested in replicating this analysis with smaller open-source models.</li>
 </ul>
 <p><a href="https://wandb.ai/bassimfaizal/compare-output-structuring-models/weave/compare-evaluations?evaluationCallIds=%5B%226634cff9-3d63-4748-9cf8-5c8a93778dcf%22%2C%22ce15da54-b232-411d-ba40-f620f223e9f4%22%2C%220a2ca30a-1579-475e-a150-fed93be50422%22%2C%22d810f8de-c1b1-4f0e-8323-8dae223c8d9a%22%5D">Link to Weave Dashboard</a></p>
 </section>
