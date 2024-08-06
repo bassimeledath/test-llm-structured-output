@@ -1,0 +1,70 @@
+ELLA NGUYEN
+DATA SCIENCE DIRECTOR
+CONTACT
+ellanguyen@email.com
+(123) 456-7890
+Mountain View, CA
+LinkedIn
+EDUCATION
+B.S.
+Data Science
+University of California,
+San Diego
+September 2004 - April
+2008
+San Diego, CA
+SKILLS
+QlikView
+TensorFlow
+Hadoop
+Apache Mahout
+SAS
+Informatica
+Oracle
+Amazon Web Services
+(AWS)
+Apache Atlas
+Jupyter Notebook
+CERTIFICATIONS
+SAS Certiﬁed Data Scientist
+Certiﬁed Analytics
+Professional (CAP)WORK EXPERIENCE
+Data Science Director
+Google
+September 2018 - current/Mountain View, CA
+Led a team of 15 data scientists and analysts, overseeing all
+data science projects and ensuring timely delivery of high-
+quality results
+Developed and maintained data governance frameworks
+and policies to ensure compliance with regulatory and
+privacy requirements
+Improved data retrieval time by 27% through implementing
+Oracle database solutions for storing and managing large-
+scale datasets
+Implemented TensorFlow models for NLP tasks that resulted
+in a 15% increase in accuracy for sentiment analysis and text
+classiﬁcation
+Principal Data Scientist
+Salesforce 
+May 2013 - August 2018/San Francisco, CA
+Increased operational efﬁciency by 12% with QlikView to
+create dynamic dashboards that drove data-driven decision-
+making
+Migrated 10TB+ of data onto Hadoop clusters from legacy
+systems, optimizing data storage and retrieval by 37%
+Designed and executed A/B tests that improved user
+engagement by 14% using Jupyter Notebook and Python
+Boosted team productivity by training 110+ employees on
+data literacy and usage of QlikView
+Data Scientist
+Airbnb
+May 2008 - May 2013/San Francisco, CA
+Made a predictive pricing model with TensorFlow that
+increased revenue per booking by 6%
+Built an automated data pipeline using AWS and
+Informatica to reduce the data processing time by 39%
+Reduced overbooking instances by 24% by creating a
+dynamic inventory management system using SAS
+Deployed a predictive maintenance model for Airbnb's IT
+infrastructure using TensorFlow and AWS to reduce
+downtime by 17%

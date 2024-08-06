@@ -1,0 +1,56 @@
+ADIRA PATEL
+SOFTWARE ENGINEER
+CONTACT
+a.patel@email.com
+(123) 456-7890
+Seattle, WA
+LinkedIn
+Github
+EDUCATION
+Bachelor of Science
+Computer Science
+University of
+Washington
+2014 - 2017
+Seattle, WA
+SKILLS
+React Native
+CERTIFICATIONS
+AWS Certiﬁed DeveloperWORK EXPERIENCE
+Software Engineer
+F5 Networks
+2021 - current/Seattle, WA
+Spearheaded Java coding workshop for 21+ developers,
+improving awareness and reducing code-related threats by
+37%
+Led PCI DSS compliance audit and found no non-
+compliance instance
+Bolstered fraud prevention with Memcyco and achieved a
+24% decrease in false positives 
+Automated repeatable testing on JUnit that expedited
+applications testing by 47% rate
+Junior Software Developer
+Zulily 
+2018 - 2021/Seattle, WA
+Tracked and ﬁxed 61+ web application bugs using Jira, which
+resulted in a 97% reduction in crashes
+Enhanced web load time by 33% through MySQL-optimized
+database storage 
+Implemented React Native UI enhancements that resulted
+in a 41% increase in average session duration
+Collaborated with a 7-member cross-functional team to
+build software core features to improve system performance
+to 114% 
+Software Developer Intern
+ExtraHop Networks
+2017 - 2018/Seattle, WA
+Created HTML/CSS web pages and reduced workload for the
+core DevOps by 17% 
+Decreased the frequency of code breakages to 7% by
+developing a Git-backed tool for code management
+Participated in rolling out Linux-encrypted web and
+database servers that enhanced overall system performance
+by 62%
+Integrated UI upgrades into new cross-device access
+applications, achieving a 34% upsurge in positive user
+reviews  

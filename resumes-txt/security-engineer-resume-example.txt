@@ -1,0 +1,62 @@
+I L Y I A  K A R A S L A V O V
+S E C U R I T Y  E N G I N E E R
+C O N T A C T
+ilyia.karaslavov@email.com
+(123) 456-7890
+Phoenix, AZ
+LinkedIn
+E D U C A T I O N
+Bachelor of Science
+Cybersecurity
+Grand Canyon University
+2003 - 2005
+Phoenix, AZ
+S K I L L S
+Java
+Spring
+Hibernate
+SQL
+AWS
+Azure
+ITF+
+A+
+Project Management
+Interpersonal
+CommunicationW O R K  E X P E R I E N C E
+Senior Information Security Engineer
+Wells Fargo
+2015 - current/Chandler, AZ
+Designed, built, conﬁgured, and deployed 50+ ﬁrewall, intrusion
+detection, and infrastructure automation technologies
+Identiﬁed and investigated 100% of threats and vulnerabilities,
+reducing the risk of successful cyber attacks by 83%
+Supported perimeter initiatives by automating and integrating the
+provisioning of accounts in the AWS cloud
+Provided consultation on 181 technologies to address security gaps
+Network Security Engineer
+Infosys
+2010 - 2015/Phoenix, AZ
+Designed and maintained 100% of cybersecurity soft & hardware
+Launched initiative to converge IT and OT networks, saving $48K a
+year in labor costs and security initiatives
+Maintained Process Control Network and 3 Pipeline SCADA
+Networks to ensure effectiveness, reliable operation, and security
+Software Engineer
+Voice Media Group
+2007 - 2010/Phoenix, AZ
+Responsible for 100% of engineering, testing, implementation, and
+maintenance of both code and codebases
+Conducted statistical analysis and troubleshooting for site lead and
+4 key management personnel
+Participated in all phases of software development, including initial
+design, prototype development, and production
+Overhauled outdated practices to develop algorithms, ensure
+compliance, and conduct initial design stages for applications
+Software/Java Engineer
+SimuLogix
+2005 - 2007/Phoenix, AZ
+Led production processes for 14 new products
+Partnered with software developers and quality assurance
+engineers to build and test 3 types of new products
+Designed and developed 6 scalable enterprise web applications
+Collaborated with 4 engineers to update 20+ tools and processes

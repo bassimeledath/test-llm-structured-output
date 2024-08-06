@@ -1,0 +1,68 @@
+AMIE  CLAUDE
+Software Engineer
+amieclaude@email.com (123) 456-7890 Pittsburgh, PA
+LinkedIn
+WORK EXPERIENCE
+Software Engineer Intern
+DICK's Sporting Goods
+May 2020 - current Pittsburgh, PA
+·Assigned to e-commerce team, and participated in
+designing improved software using algorithms to match
+users to products, boosting sales by 16%
+·Participated in code reviews with product team, and
+gained feedback from senior engineers and experience
+in writing custom, scalable code
+·Partnered with 2 interns to understand user stories, and
+reported ﬁndings, goals, and progress to senior engineer
+·Tested and ﬁnetuned applications, reducing the
+instances of bugs by 7%
+·Ensured all technical issues were ticketed, responding to
+Tier 1 tickets and escalating issues at Tier 2
+·Presented software development and lifecycle reports to
+CTO and CEO with 2 other interns, receiving recognition
+for design ideas and implementation
+Online Tutor
+Easyke
+December 2016 - April 2020 Pittsburgh, PA
+·Planned lessons for small groups of 4-6 students,
+providing 3 hours per week of targeted math and science
+·Communicated with students to discuss academic needs
+and goals in order to adjust lessons and assessments
+·Provided feedback on assignments, and retaught trouble
+areas until students reached 90% mastery
+·Engaged students in 1:1 discussions, small group
+discussions, and breakout sessions, utilizing various
+discussion methods to actively retain attention across a
+variety of learning styles
+·Wrote progress reports and feedback to present to
+students and administration, working with admin to
+adjust student plans as needed
+·Built in ofﬁce hours for 2 hours per week for students to
+check-in and receive one-on-one help, which boosted
+their mastery level by 13%CAREER
+OBJECTIVE
+Problem solver and strong
+communicator eager to prove my
+value and talent at an emerging
+company like Revature. Motivated
+to advance and expand my skill set
+through targeted mentorship and
+challenging projects.
+EDUCATION
+B.S.
+Computer Science
+University of Pittsburgh
+September 2016 - April 2020
+Pittsburgh, PA
+GPA: 3.7
+RELEVANT
+COURSES
+Data Structures
+Algorithm Design
+Database Management Systems
+Computer Vision
+Software Design Methodology
+SKILLS
+Advanced: Python (Django), Java,
+Unix, Git
+Familiar: Javascript, SQL, HTML/CSS

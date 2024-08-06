@@ -1,0 +1,65 @@
+LEANDER HARTMAN
+Lead Software Engineer
+l.hartman@email.com (123) 456-7890 Philadelphia, PA
+LinkedIn
+W ORK EXPERIENCE
+Lead Software Engineer
+Comcast
+2020 - current Philadelphia, PA
+Led a team of 9 engineers to adopt Bitbucket for version control,
+lowering merge conﬂicts by 39%.
+Supervised two major version control migrations for a team of 78,
+making code collaboration 41% easier on average according to
+feedback. 
+Held 4 internal workshops on cloud technologies and current
+regulatory practices, enhancing team knowledge.
+Integrated CircleCI for continuous integration/continuous
+deployment (CI/CD), which allowed the team to quicken release
+cycles by 27 hours.
+Software Engineer
+Appian
+2018 - 2020 Philadelphia, PA
+Assisted in porting multiple applications to a cloud environment,
+reducing operational costs by $12,436 and maintaining a 98.9%
+uptime.
+Automated repetitive tasks using Python scripts, saving 209
+manual work hours annually.
+Ran weekly performance testing sessions on critical software
+components, ﬁxing major bugs that improved system throughput
+by 61%.
+Developed and deployed 17 serverless functions with Google
+Cloud Functions, resulting in 23-minute improvement in response
+times.
+Technical Support Engineer
+UPMC
+2016 - 2018 Pittsburgh, PA
+Organized a hospital-wide training program on Zoom, remotely
+teaching 54 staﬀ members about the use of a new system. 
+Conducted performance testing using Apache JMeter to identify
+key bottlenecks that were making the patient record system slower
+by 31%.
+Used Wireshark for network analysis, successfully resolving 91% of
+network issues within the ﬁrst 21 hours of reporting.
+Worked with the clinical team to visualize 112 patient ﬂow
+processes using draw.io.EDUCATION
+Master of Science
+Software Engineering
+Carnegie Mellon University
+2018 - 2020
+Pittsburgh, PA
+Bachelor of Science
+Computer Science
+Carnegie Mellon University
+2011 - 2015
+Pittsburgh, PA
+SKILLS
+draw.io
+Microsoft Project
+Bitbucket
+Oracle Enterprise Manager
+Istio
+CircleCI
+Apache JMeter
+Wireshark
+Google Cloud Functions
+Zoom

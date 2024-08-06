@@ -1,0 +1,64 @@
+ARIA FISCHER
+Junior Software Engineer
+a.ﬁscher@email.com (123) 456-7890 Southﬁeld, MI
+linkedin.com
+WORK EXPERIENCE
+IT Support Technician
+Blue Cross Blue Shield of Michigan
+August 2020 - current Detroit, MI
+Implemented Azure DevOps and Azure Storage cloud solutions,
+increasing infrastructure efﬁciency by 13%.
+Migrated 54% of the organization's code repositories to Subversion
+(SVN) to streamline version control.
+Resolved 20+ instances of software license non-compliance, saving
+around $54,000 in potential ﬁnes and penalties.
+Automated 8 routine IT tasks using Selenium to free 11 hours of
+staff time on average per week.
+Technical Support Representative
+Comcast
+December 2017 - June 2020 Ann Arbor, MI
+Achieved a monthly customer satisfaction rating of 98%, ranking
+within the top 3% of Technical Support Representatives at Comcast.
+Upsold Comcast services to Xﬁnity Internet customers, generating
+$21,000+ in additional annual revenue.
+Contacted customers with scheduled maintenance updates,
+reducing incoming calls by 65% on average.
+Handled 50+ support calls per day, addressing customer concerns
+related to product features and technical issues.
+PROJECTS
+Developer
+StudySpot
+2015 - 2017
+Used React to create a seamless user interface on Android and iOS
+apps, doubling monthly downloads in 7 months.
+Implemented a code repository management system using
+Subversion, boosting code collaboration efﬁciency by 34%.
+Enforced secure data transfer protocols and encryption
+mechanisms and ensured user data remained protected.
+Introduced an analytics and reporting framework with Microsoft
+Azure, providing insights into user behavior and patterns.CAREER
+OBJECTIVE
+A seasoned IT professional passionate
+about software development, seeking a
+junior software engineer role at Bosch.
+Eager to apply my experience with
+Eclipse and C++ to create high-quality
+software products that contribute to the
+company's engineering efforts. 
+EDUCATION
+Bachelor of Science
+Computer Science and Engineering
+University of Michigan
+2013 - 2017
+Ann Arbor, MI
+SKILLS
+Eclipse
+Subversion (SVN)
+C++
+React
+PostgreSQL
+Microsoft Azure
+Selenium
+CERTIFICATIONS
+Certiﬁed Software Development
+Professional (CSDP)

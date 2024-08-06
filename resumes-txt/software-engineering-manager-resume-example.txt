@@ -1,0 +1,72 @@
+ZARA GREENE
+SOFTWARE ENGINEERING M ANAGER
+CONTACT
+zaragreen@email.com
+(123) 456-7890
+Mountain View, CA
+LinkedIn
+Github
+EDUCATION
+M.S.
+Computer Science with a
+concentration in Software
+Theory or Software Systems
+Stanford University
+2010 - 2012
+Stanford, CA
+B.S.
+Computer Science
+Carnegie Mellon University
+2006 - 2010
+Pittsburgh, PA
+SKILLS
+Eclipse
+Git
+Docker
+Amazon Web Services (AWS)
+Jenkins
+React.js
+MySQL
+Java
+CERTIFICATIONS
+AWS Certiﬁed Developer from
+Amazon Web ServicesWORK EXPERIENCE
+Software Engineering Manager
+Google LLC
+May 2019 - April 2023/Mountain View, CA
+Boosted application performance by 23% through the strategic use of
+Docker for containerization and deployment.
+Enhanced CI/CD pipelines by integrating Jenkins, accelerating release
+cycles by 21%.
+Optimized data storage and retrieval with MySQL, contributing to a
+29% increase in database performance.
+Mentored 5 junior engineers on best practices, increasing their
+productivity and improving code quality.
+Improved application architecture using AWS Cloud Services,
+reducing server response times by 28%.
+Systems Analyst
+IBM
+October 2015 - April 2019/Armonk, NY
+Developed custom system monitoring tools using Java, improving
+infrastructure stability by 29%.
+Implemented Git for version control and collaboration, reducing code
+conﬂicts by 15%.
+Led the migration of legacy systems to modern technology stacks,
+improving system performance by 28%.
+Enhanced website interface design with React.js, boosting click-
+through rates by 24%.
+Leveraged MySQL for data management and analysis, boosting
+database performance by 26%.
+IT Support Technician
+PNC Financial Services Group
+September 2012 - September 2015/Pittsburgh, PA
+Resolved an average of 35 daily IT support tickets, resulting in a 28%
+increase in end-user satisfaction.
+Used remote desktop tools to provide timely and efﬁcient support,
+decreasing average ticket resolution time by 19%.
+Introduced a centralized knowledge base, reducing ticket escalation
+rates by 23%.
+Coordinated with vendors for timely hardware replacements and
+upgrades, improving equipment reliability.
+Provided ongoing IT support for remote workforce, improving
+productivity by 22%.

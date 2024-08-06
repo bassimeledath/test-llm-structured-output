@@ -1,0 +1,66 @@
+RENATA VOSS
+DIRECTOR OF SOFTWARE ENGINEERING
+CONTACT
+r.voss@email.com
+(123) 456-7890
+San Jose, CA
+LinkedIn
+Github
+EDUCATION
+Bachelor of Science
+Software Engineering
+California Institute of
+Technology
+2006 - 2010
+Pasadena, CA
+SKILLS
+JIRA 
+Amazon Web Services
+(AWS)
+Jenkins
+TensorFlow
+Spring Boot
+Apache Hadoop
+IDPS
+React Native
+Selenium
+OracleWORK EXPERIENCE
+Director of Software Engineering
+Adobe
+2019 - current/San Jose, CA
+Managed cross-functional team on Jira, increasing
+production velocity by 23%
+Integrated IDPS into systems, which decreased instances of
+successful socially engineered attacks to less than 1%
+Boosted processes through Jenkins-backed workﬂows that
+improved the quality of outcomes by a 54% margin 
+Achieved a 97% Net Promoter Score and a 4.7 out of 5
+rating from end users for error-free end products
+Senior Engineering Manager
+PayPal
+2014 - 2019/San Jose, CA
+Resolved app incompatibility issues with some mobile
+devices using AWS, reducing user-reporting incidences by
+92%
+Incorporated agile best practices into core processes, which
+reduced average production cycle time by 17% across
+projects
+Decreased mobile app density defects by 31% by
+integrating React Native UI elements
+Worked within budget and timelines to deliver user-
+eccentric solutions and maintained a user satisfaction rating
+of 94% through customer feedback surveys
+Principal Software Engineer
+Intel
+2010 - 2014/Santa Clara, CA
+Optimized storage and dataset processing through Apache
+Hadoop, resulting in a 47% increase in concurrent user
+capacity
+Automated web applications testing across browsers with
+Selenium that shrank user-reported defects by 68%
+Led a team of 4 software engineers to create and upgrade
+databases on Oracle with a consistent 98% on-time delivery
+rate
+Implemented cloud infrastructure optimizations, which
+decreased monthly hosting costs by 28% and boosted
+system reliability

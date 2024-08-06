@@ -1,0 +1,37 @@
+Terrence Coleman
+tcoleman@email.com (123) 456-7890 Brooklyn, NY LinkedIn
+Analytically minded self-starter with a decade of experience collaborating with cross-functional teams and
+ensuring the accuracy and integrity around data and actionable insights. Prepared to lead teams and interns in
+predictive modeling and insight reporting to boost Hyphen's business efﬁciency, strategic goals, and proﬁt.
+WORK EXPERIENCE
+Best Buy-Senior Data Scientist
+October 2018 - current Remote
+·Led data extraction and evaluation efforts to save Best Buy more than 11M over the course of tenure
+·Partnered with product team to build a production recommendation engine in Python that improved the
+average length on page for users and resulted in $450K in incremental annual revenue
+·Created a customer attrition random forest model, improving monthly retention by 6 basis points for
+customers likely to attrit by servicing relevant product features for them
+·Communicated with PMs to lead 4 data scientists in project planning, development, and execution
+·Coached data team throughout short and long-term projects, redeﬁning documentation frequently
+2U-Data Scientist
+April 2014 - October 2018 Brooklyn, NY
+·Conducted A/B testing to solve client pain points in learning platforms, and identiﬁed and recommended
+solutions to solve unclear platform roadmaps, which reduced the bounce rate by 62%
+·Extracted data from 7 disparate sources, and increased agility and accuracy with a centralized system
+·Constructed decisions trees to optimize needed algorithms to better target the learning audience by 15%
+2U-Data Analyst
+April 2012 - April 2014 Brooklyn, NY
+·Determined, using Python clustering methods, groups of states where underwriting models were
+underperforming, and owned improvements to increase proﬁt by 4%
+·Identiﬁed procedural areas of improvement through customer data to help improve the proﬁtability of a
+nationwide retention program by 8%
+·Developed and owned the reporting for a nationwide retention program using Python, SQL, and Excel,
+saving an average of 60 hours of labor each month
+EDUCATION
+University of Pittsburgh -Master's ,Mathematics
+September 2012 - April 2014 Pittsburgh, PA
+University of Pittsburgh-Bachelor's,Mathematics and Economics
+September 2008 - April 2012 Pittsburgh, PA
+SKILLS
+Python (NumPy, Pandas, Scikit-learn, Flask), SAS; SQL - Redshift, MySQL; ElasticSearch; Recommendation
+Engines, Customer Segmentation & Retention Models, Price Optimization, Productionizing Models

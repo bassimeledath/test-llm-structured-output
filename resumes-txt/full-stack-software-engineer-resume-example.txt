@@ -1,0 +1,35 @@
+Zixin Kuàng
+Full Stack Software Engineerzixin.k@email.com
+(123) 456-7890
+Providence, RI
+LinkedIn
+Work Experience
+Tokio Marine HCC-Full Stack Software Engineer
+2020 - current Warwick, RI
+Managed a team of 7 junior engineers using Agile methods to deliver software solutions
+Coded advanced-level programs and design enhancements for 3 existing applications
+Developed automation solutions using Python and Java to increase process efﬁciency by ~43%
+Devised functionality for 30+ products based on internal, customer/vendor, and industry input
+Worked with 15+ stakeholders to ensure source control systems met all needs, including CI/CD
+Availity-Full Stack Java Software Engineer
+2018 - 2020 Providence, RI
+Built and maintained 100% of backend REST Services using Java
+Directed 200+ client focus groups, interviews, and usage analysis sessions
+Collaborated with 2 designers and 6 other developers in an Agile team to rapid prototype
+Translated 40+ wireframes/sketches into working prototypes to reﬁne user interface behaviors
+Designed, coded, maintained, tested, implemented, and validated 300+ web applications
+Fidelity Investments-Full Stack Software Engineer
+2014 - 2018 Smithﬁeld, RI
+Analyzed 12 existing applications to formulate logic for new applications, procedures, &
+ﬂowcharting, coding and debugging programs
+Analyzed and utilized application and programming documents to develop of clean, scalable, and
+reusable code for 30+ projects
+Developed 20+ application implementation plans throughout the production life cycle to create
+appropriate deliverables, increasing productivity by ~23%
+Recommended changes in development, maintenance and system standards, leading to the adoption
+of lean principles that increased team effectiveness and efﬁciency by73%
+Education
+University of Rhode Island-Bachelor's of Science,Computer Science
+2010 - 2014 Kingston, RI
+Skills
+HTML;CSS;Java;JavaScript;React;Redux;Angular;Node;Jest;MongoDB

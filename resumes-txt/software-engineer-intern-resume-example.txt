@@ -1,0 +1,69 @@
+CAIUS KESSLER
+Software Engineer
+Intern
+ckessler@email.com
+(123) 456-7890
+Seattle, WA
+LinkedIn
+EDUCATION
+B.S.
+Computer Science
+University of Washington
+September 2020 - current
+Seattle, WA
+Relevant courses
+Computer Science I and II
+Discrete Mathematics
+Data Structures and
+Algorithms
+Computer Organization and
+Architecture
+Operating Systems
+SKILLS
+Visual Studio
+Bitbucket
+Oracle
+Django
+Windows
+Java
+HOBBIES
+Food Photography
+Travel Photography
+Video editing and post-
+productionCAREER OBJECTIVE
+Highly-driven computer science student with growing
+knowledge in Bitbucket, Oracle, and Java, seeking a software
+engineering internship at Microsoft. As a Microsoft Certiﬁed:
+Azure Developer Associate, I'm ready to contribute my passion
+and skills to help drive innovation as a global technology leader.
+WORK EXPERIENCE
+Data Entry Specialist
+Expedia Group
+May 2021 - current Seattle, WA
+Processed and entered 1,200+ travel records per week into
+Oracle databases.
+Utilized Java-based tools to import and export data,
+reducing data transfer time by 34%.
+Developed and deployed a Django-based web interface,
+increasing data accessibility for remote team by 22%.
+Generated data-driven insights, supporting key business
+decisions and driving a 6% increase in revenue.
+Gathered monthly reports on data entry metrics, helping
+strategic planning and resource allocation.
+PROJECTS
+Tech Pursuit
+Creator
+2020 - 2021
+Designed a robust database architecture utilizing Oracle,
+enhancing game performance by 38%.
+Streamlined game development process by integrating
+Visual Studio, reducing overall project time by 11%.
+Implemented version control and collaboration using
+Bitbucket, leading to a 21% decrease in code conﬂicts.
+Enhanced game character AI using Java, increasing positive
+user reviews by 29%.
+Conducted extensive playtesting and user feedback analysis
+every month, eliminating game bugs.
+CERTIFICATIONS
+Microsoft Certiﬁed: Azure Developer Associate
+Oracle Certiﬁed Professional: Java SE 11 Developer

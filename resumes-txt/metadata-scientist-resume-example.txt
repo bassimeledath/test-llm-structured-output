@@ -1,0 +1,60 @@
+Justine Hendrickson
+Metadata Scientist
+Data Science graduate with a passion for data integrity, visualization, and
+statistics. I’m excited to apply my passion for data science to the collaborative
+efforts of a Chevron team focused on insightful, high-quality data analytics and
+visualizations.JustH@email.com
+(123) 456-7890
+Houston, TX
+LinkedIn
+Twitter
+WORK EXPERIENCE
+Labcorp
+Entry-Level Metadata Scientist
+Houston, TX|July 2021 - current
+Identiﬁed appropriate quantitative methods and built relevant data sets
+to address challenges across 6 different domains
+Implemented 32 statistical and machine learning solutions end-to-end
+through the life cycle of deploying and maintaining metadata at scale
+Developed measurement solutions and experimentation frameworks to
+ensure 100% informed and effective data-driven decision making
+Helped shape the technical vision and strategies of 2 engineering
+partner teams through data-driven recommendations
+Communicated project results and recommendations to 24 stakeholders
+and cross-functional partners
+PROJECTS
+Weather API Site
+Creator
+Used HTML5 to design a dashboard visual interface of a previous
+WeatherAPI app with citipy, a simple Python library, and the
+OpenWeatherMap API to create a weather model across 50+ world
+cities
+Added features to the app by applying a Bootstrap template, designing
+the website layout, and adding a picture carousel of cities used in the
+OpenWeatherMap API project
+Drafted detailed documentation of code utilizing GitHub, complete with
+charts and notes about each sub-page
+Stock Analysis
+Creator
+Used stock market KPIs to determine whether the tech sector of the
+stock market was in a bubble
+Displayed a working knowledge of Data ETL, Visualization, API
+frameworks, and statistical methods in Python to develop visualizations
+and implement analyses
+Cleaned historical data for over 600 companies (in NASDAQ and S&P
+500), accessing JSON endpoints for each company using (Python) PandasSKILLS
+Python
+R
+SQL
+Tableau
+Hadoop
+Numpy
+EDUCATION
+B.S.
+Computer Science
+University of Houston
+September 2017 - May 2021
+Houston, TX
+CERTIFICATIONS
+AWS
+Certiﬁed Data Scientist

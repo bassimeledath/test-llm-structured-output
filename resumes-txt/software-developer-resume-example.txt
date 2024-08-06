@@ -1,0 +1,72 @@
+C Y N T H I A   D W A Y N E
+S o f t w a r e  D e v e l o p e r
+C O N T A C T
+cynthia@beamjobs.com
+(123) 456-7890
+Brooklyn, NY
+LinkedIn
+Github
+C A R E E R  O B J E C T I V E
+Throughout my 7-year-plus
+career as a software developer, I
+have focused on developing
+scalable and well-documented
+code. I enjoy working
+collaboratively but can also run
+with projects independently.
+Excited about the prospect of
+joining a product-driven
+company like Acme Corp.
+E D U C A T I O N
+Bachelor of Science
+Computer Science
+University of Delaware
+August 2008 - May 2012
+Newark, DE
+S K I L L S
+Python (Django)
+SQL (PostgreSQL, MySQL)
+Cloud (GCP, AWS)
+JavaScript (ES6, React, Redux,
+Node.js)
+Typescript
+HTML/ CSS
+CI/CDW O R K  E X P E R I E N C E
+Software Developer
+QuickBooks
+January 2017 - current/New York, NY
+·Worked on the payments team to save time and improve cash
+ﬂow for over 50,000 through the development of modern,
+responsive customer experiences
+·Led the migration from AWS to GCP for the team to reduce
+cloud costs by $260,000 per year
+·Worked closely with the product team to re-conﬁgure the
+processing of invoices, saving customers over 125,000 manual
+hours of work per month
+·Mentored 3 junior front-end developers on the team on React,
+and documented best practices within the organization
+Front-End Developer
+AMR
+January 2014 - December 2016/New York, NY
+·Contributed to the in-house UI library to create reusable
+components that saved 125+ hours of development per month
+·Created a web app MVP for a store delivery management
+platform with 200+ business customers to create, manage, and
+monitor deliveries using React and Redux
+·Added features to meditation app with 5,000+ monthly users,
+enabling audio and video uploads using React and Redux
+·Improved customer conversion rate by 17% through A/B
+testing of diﬀerent components and combinations,
+representing $500,000+ in incremental annual revenue
+Help Desk Analyst
+Kelly
+June 2012 - January 2014/New York, NY
+·Diagnosed technical issues for 30+ clients per day by phone,
+email, and chat, solving issues within 15 minutes on average
+·Successfully reached solutions for 92% of computer errors, and
+escalated more complex tickets to higher tiers to assist clients
+as quickly as possible
+·Created user accounts for 50+ clients per week, and assisted
+them with setting up and customizing their accounts
+·Created and updated documentation as needed concerning
+network, software, and hardware problems

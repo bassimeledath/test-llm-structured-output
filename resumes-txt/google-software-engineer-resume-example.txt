@@ -1,0 +1,65 @@
+KIAN MARSHALL
+Google Software Engineer
+kianmarsh@email.com (123) 456-7890 Redmond, WA
+WORK EXPERIENCE
+Software Engineer
+Microsoft
+August 2018 - current Redmond, WA
+Developed and optimized a Microsoft Oﬃce Suite feature with
+JavaScript to increase user eﬃciency by 15%.
+Implemented a microservice architecture for a cloud-based
+product, increasing system reliability and reducing deployment
+time by 16%.
+Spearheaded the redesigning of a key Windows OS component to
+see improved boot time by 29%.
+Led the migration of a critical application from on-premise to
+Azure cloud infrastructure, reducing operational costs by 32%.
+Implemented a CI/CD pipeline for a key product, reducing release
+cycle times by 26%.
+Junior Developer
+Amazon
+May 2015 - June 2018 Seattle, WA
+Built a custom integration between Amazon's internal tools and
+Slack via JavaScript, enhancing team productivity by 15%.
+Improved security of a web application by integrating Google
+Cloud Armor, reducing the risk of DDoS attacks by 63%.
+Reduced data retrieval times with Google Cloud Storage to store
+and manage large data sets for internal analytics project.
+Optimized the performance of a web application using Google
+Cloud Run, which boosted concurrent users by 27%.
+Intern
+Amazon
+May 2014 - May 2015 Seattle, WA
+Conducted market research and competitive analysis for a product
+launch, oﬀering insights that boosted sales by 19%.
+Participated in the QA testing process for a new application,
+identifying and reporting 4 critical bugs.
+Oversaw user testing for a new feature, gathering feedback that
+contributed to a 26% improvement in usability.
+Shadowed 3 senior team members to gain hands-on experience in
+project management and software development.EDUCATION
+M.S.
+Computer Science & Engineering
+University of Washington
+2014 - 2016
+Seattle, WA
+B.S.
+Computer Science
+Massachusetts Institute of
+Technology (MIT)
+2010 - 2014
+Cambridge, MA
+SKILLS
+JavaScript
+Google Cloud SDK
+Google Cloud Storage
+Google Cloud Platform
+Google Cloud Run
+Google Cloud Natural Language API
+React
+Slack
+Google Cloud Armor
+Prometheus
+CERTIFICATIONS
+Google Associate Android Developer
+Certiﬁcation

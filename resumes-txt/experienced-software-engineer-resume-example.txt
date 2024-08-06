@@ -1,0 +1,61 @@
+KIAN WOODS
+EXPERIENCED SOFTWARE ENGINEER
+CONTACT
+kianwoods@email.com
+(123) 456-7890
+Pittsburgh, PA
+LinkedIn
+EDUCATION
+Bachelor of Science
+Computer Science
+Carnegie Mellon University
+2013 - 2017
+Pittsburgh, PA
+SKILLS
+PyCharm
+Mercurial
+Ruby on Rails
+Microsoft SQL Server
+Google Cloud Platform
+PHPUnit
+OpenShift
+CircleCI
+C++
+PyTorch
+CERTIFICATIONS
+Certiﬁed Software
+Development Associate (IEEE)WORK EXPERIENCE
+Software Engineer
+Duolingo
+August 2020 - current/Pittsburgh, PA
+Optimized machine learning algorithms with a C++ library for a
+38% boost to the eﬃciency of language learning models.
+Employed PyTorch to develop and improve the AI-driven
+language pronunciation feedback system.
+Used PyCharm as the primary IDE to increase development
+eﬃciency for a 27% reduction in bug-ﬁxing time.
+Worked with data science team to integrate machine learning
+algorithms to improved language model accuracy.
+DevOps Engineer
+PNC Financial Services
+June 2017 - June 2020/Pittsburgh, PA
+Streamlined deployment process by implementing CircleCI,
+reducing build times by 34% and increasing deployment
+frequency by 61%.
+Led a team to migrate the company's database from MySQL to
+Microsoft SQL and to decrease query times by 21%.
+Developed custom Mercurial hooks to enforce coding standards,
+reducing code review time by 13%.
+Improved software release pipeline security by automating
+vulnerability scanning and patching.
+Software Developer Intern
+Vanguard
+2016 - 2017/Remote
+Assisted in refactoring C++ code, helping to cut maintenance by
+14% and improving app performance.
+Conducted code reviews under 2 senior developers.
+Helped migrate applications to AWS and Azure, which cut
+infrastructure costs by 12% and aided application availability.
+Built a custom notiﬁcation system with JavaScript and
+WebSocket, increasing user engagement by 23% and improving
+real-time communication capabilities.

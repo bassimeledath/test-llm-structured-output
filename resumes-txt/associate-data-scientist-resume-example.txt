@@ -1,0 +1,69 @@
+AMBROSE
+HORVÁTH
+Associate Data Scientist
+Ambro_@email.com
+(123) 456-7890
+Santa Barbara, CA
+LinkedIn
+facebook
+twitter
+EDUCATION
+B.S.
+Computer Science
+Pepperdine University
+2017 - 2021
+Santa Barbara, CA
+GPA: 4.0
+SKILLS
+Machine and Deep Learning
+Statistical Analysis
+Processing Large Data Sets
+Data Visualization
+Mathematics
+Programming
+Data Wrangling
+CERTIFICATIONS
+Open Certiﬁed Data
+Scientist (Open CDS)
+Google Data Machine
+LearningCAREER OBJECTIVE
+Conscientious and innovative data science Summa Cum Laude
+graduate with extensive skills and outstanding aptitude for
+learning. Seeking a challenging and career-building position at
+Northrop Grumman as an associate data scientist.
+WORK EXPERIENCE
+Data Scientist Intern
+County of Ventura
+2020 - current Ventura, CA
+Designed and implemented over 40 machine-learning
+models for different programs and projects
+Veriﬁed results of algorithms to predict future occurrences
+using real-world programs data with 82% precision
+Extracted raw data from Twitter APIs and analyzed tweets to
+generate analysis showing trends in public opinion
+regarding policy changes
+Developed a Java application that performed pattern
+analysis of criminal incidents to help identify and visualize
+hotspots (vulnerable areas) in the city
+PROJECTS
+Image Caption Generator Project in Python
+Pepperdine - Senior Project
+Aug 2021 - Dec 2021
+Designed and created an 2 applications to analyze images
+and convert to natural language (English) descriptions
+Utilized deep learning techniques to implement a
+convolutional neural network (CNN) with recurrent neural
+network (LSTM) to build the image caption generator
+Created application in Python using a Keras framework
+against a Flickr 8K dataset
+Credit Card Fraud Detection Project
+Pepperdine - Junior Project
+Aug 2020 - Jun 2021
+Created 2 apps that classiﬁed credit card transactions into
+fraudulent and genuine, ﬁt the models, and plotted
+performance curves
+Used R with algorithms such as Decision Trees, Logistic
+Regression, Artiﬁcial Neural Networks, and Gradient
+Boosting Classiﬁer
+Created application in R against 6 credit card transaction
+databases

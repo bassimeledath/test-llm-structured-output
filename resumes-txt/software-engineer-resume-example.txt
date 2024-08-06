@@ -1,0 +1,59 @@
+C H A R L E S  M C T U R L A N D
+S O F T W A R E  E N G I N E E R
+C O N T A C T
+cmcturland@email.com
+(123) 456-7890
+New York, NY
+LinkedIn
+E D U C A T I O N
+B.S.
+Computer Science
+University of Pittsburgh
+September 2008 - April 2012
+Pittsburgh, PA
+S K I L L S
+Python (Django)
+Javascript (NodeJS ReactJS,
+jQuery)
+SQL (MySQL, PostgreSQL,
+NoSQL)
+HTML5/CSS
+AWS
+Unix, GitW O R K  E X P E R I E N C E
+Software Engineer
+Embark
+January 2015 - current/New York, NY
+Worked with product managers to re-architect a multi-page web
+app into a single page web-app, boosting yearly revenue by $1.4M
+Constructed the logic for a streamlined ad-serving platform that
+scaled to our 35M users, which improved the page speed by 15%
+after implementation
+Tested software for bugs and operating speed, ﬁxing bugs and
+documenting processes to increase efﬁciency by 18%
+Iterated platform for college admissions, collaborating with a group
+of 4 engineers to create features across the software
+Software Engineer
+MarketSmart
+April 2012 - January 2015/Washington, DC
+Built RESTful APIs that served data to the JavaScript front-end
+based on dynamically chosen user inputs that handled over 500,000
+concurrent users
+Built internal tool using NodeJS and Pupeteer.js to automate QA and
+monitoring of donor-facing web app, which improved CTR by 3%
+Reviewed code and conducted testing for 3 additional features on
+donor-facing web app that increased contributions by 12%
+Software Engineer Intern
+Marketing Science Company
+April 2011 - March 2012/Pittsburgh, PA
+Partnered with a developer to implement RESTful APIs in Django,
+enabling analytics team to increase reporting speed by 24%
+Using Selenium I built out a unit testing infrastructure for a client
+application that reduced the number of bugs reported by the client
+by 11% month over month
+P R O J E C T S
+Poker Simulation
+Built a full-stack web app to allow users to simulate and visualize
+outcomes of poker hands against opponents of different play styles
+using open source cards.js on the front-end
+Utilized sci-kit learn in Python to simulate possible outcomes under
+different scenarios that the user chose

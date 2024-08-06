@@ -1,0 +1,65 @@
+ISOLDE MERCER
+Software QA Engineer
+i.mercer@email.com
+(123) 456-7890
+New York, NY
+LinkedIn
+EDUCATION
+Bachelor of Science
+Software Engineering
+Rochester Institute of
+Technology
+2010 - 2014
+Rochester, NY
+SKILLS
+TestRail
+Selenium
+Bugzilla
+TestLink
+Jenkins
+Apache JMeter
+SQL Server Management
+Studio
+BrowserStack
+Firebase Test Lab
+JenkinsW ORK EXPERIENCE
+Software QA Engineer
+DigitalOcean
+2019 - current New York, NY
+Carried out performance testing for 13 high-trafﬁc
+applications, ﬁnding and resolving current bottlenecks, and
+improving load times by 9 minutes. 
+Implemented multiple QA strategies using TestRail,
+reducing bug leakage by 11%.
+Led weekly regression tests, spotting 86% of critical bugs
+before production deployment.
+Executed load testing scenarios for DigitalOcean’s main
+website on Apache JMeter, supporting 11,458 simultaneous
+users without any drop in performance.
+Associate QA Engineer
+Peloton
+2016 - 2019 New York, NY
+Automated testing procedures using Selenium, reducing
+manual testing time by 16 minutes and increasing test
+coverage by almost 29%.
+Conducted mobile testing on Firebase Test Lab, achieving a
+97% success rate in discovering and ﬁxing device-speciﬁc
+issues within deadlines. 
+Assisted in the successful launch of 3 major ﬁtness
+equipment products for Peloton, meeting all quality
+benchmarks and regulations.
+Ensured 94% data accuracy in test environments with
+extensive SQL queries for data validation.  
+Junior Software Tester
+Etsy
+2014 - 2016 Brooklyn, NY
+Used Bugzilla to identify and report 204 bugs on Etsy’s
+ofﬁcial website, contributing to a 21% improvement in
+resolving monthly bug issues.
+Integrated Jenkins for continuous integration, decreasing
+deployment times for new features by 2 days. 
+Managed test plans on TestLink for 17 projects, ensuring
+detailed documentation and tracking process. 
+Practiced cross-browser testing on BrowserStack for Etsy’s 4
+new landing pages, ensuring compatibility and a high-
+quality UX across various platforms.

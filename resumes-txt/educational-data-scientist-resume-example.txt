@@ -1,0 +1,69 @@
+M A H D I  H A K I M I
+E D U C A T I O N A L  D A T A  S C I E N T I S T
+C O N T A C T
+Mahdi_@email.com
+(123) 456-7890
+Pasadena, CA
+LinkedIn
+twitter
+Github
+E D U C A T I O N
+Master's Degree
+Geophysics
+UCLA
+2010 - 2012
+Los Angeles, CA
+B.S.
+Engineering
+UCLA
+2006 - 2010
+Los Angeles, CA
+S K I L L S
+Communication
+Data Analysis
+Collaboration
+Critical Thinking
+R Programming
+Hadoop
+Python
+NoSQL
+C E R T I F I C A T I O N S
+Data Science (SAS)
+Principal Data Scientist
+(DASCA) C A R E E R  S U M M A R Y
+Seasoned data science professional with 13 published articles involving
+data mining, machine learning, and predictive analytics. An experienced
+programmer with a passion for learning new skills. Seeking a challenging
+and career-developing role as an educational data scientist with Arete.
+W O R K  E X P E R I E N C E
+Educational Data Scientist
+Expatiate Communications
+2018 - current/Pasadena, CA
+Developed and established 12 data intelligence processes
+Used weighted SVM on top of data processing techniques to ﬁnd
+trends in 4 social media platforms
+Built trend detection and correlation ﬁnder to detect abnormal
+behavior of log data, identifying fraudulent activity for cybersecurity
+Integrated machine learning with different correlation metrics to
+identify relationships between 900+ live social media data metrics
+Statistician
+UCLA Health
+2014 - 2018/Los Angeles, CA
+Performed in-depth evaluations of 70+ programs, measuring
+effectiveness, and identifying improvement areas
+Analyzed 24 sources of multivariate data to identify signiﬁcant
+ﬁndings, which enabled the creation of written publications
+Leveraged statistical programs to apply logistic regression and
+multivariate models to create visualizations for 130 presentations
+Collaborated on hypothesis formulation, determination of research
+design, and data collection procedures for 26 research programs
+Trained 6 junior statisticians in program processes and procedures
+Associate Data Scientist
+California Institute of Technology
+2010 - 2014/Pasadena, CA
+Developed 26 pipelines to analyze 82 large simulation datasets
+combining Python, TCL, and Shell scripts
+Worked in a cross-functional team to develop a multiscale simulation
+technique to explain phenomena, including viral DNA ejection
+Trained as a lab scientist on bioinformatics tools, statistical methods,
+and High-Performance Computing (HPC) systems

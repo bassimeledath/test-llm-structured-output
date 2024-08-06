@@ -1,0 +1,52 @@
+LYSANDRA VEGA
+Software Engineer
+lysandrav@email.com (123) 456-7890 Indianapolis, IN
+LinkedIn
+CAREER OBJECTIVE
+New computer engineering graduate with strong problem-
+solving skills and a commitment to excellence, seeking a
+software engineer role at Salesforce. Excited to use my skill in
+Git and Python to support Salesforce's vision of helping
+companies connect with their customers in fresh ways.
+WORK EXPERIENCE
+Software Engineer Intern
+Infosys 
+January 2022 - March 2023 Indianapolis, IN
+Used Visual Studio Code for effective code editing and
+debugging, increasing code quality by 18%.
+Integrated third-party APIs with Python to enhance app
+functionality and increase user satisfaction by 24%.
+Improved database performance by optimizing MySQL
+queries, boosting query response times by 11%.
+Streamlined the continuous integration and deployment
+(CI/CD) pipeline, reducing build times by 27%.
+Cut merge conﬂicts by 13% using Git for version control
+and collaboration.
+PROJECTS
+Academic Simulation Project
+Group Leader
+2019 - current
+Developed backup and recovery strategies for macOS,
+increasing data recovery speeds by 17%.
+Implemented efﬁcient MySQL database schemas and
+decreased data redundancy by 28%.
+Employed Django ORM to manage database interactions,
+streamlining and reducing development time by 19%.
+Collaborated with a team of 4 to ensure timely project
+delivery while adhering to best practices.EDUCATION
+B.S.
+Computer Engineering
+Purdue University
+September 2019 - April 2023
+West Lafayette, IN
+SKILLS
+Visual Studio Code
+Git
+MySQL
+Django
+Heroku
+macOS
+Python
+CERTIFICATIONS
+Certiﬁed Software Development
+Professional (CSDP)

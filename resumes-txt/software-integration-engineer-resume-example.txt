@@ -1,0 +1,54 @@
+DEAN BLYTHE
+Software Integration Engineer
+dean-blythe@email.com (123) 456-7890 San Francisco, CA
+LinkedIn
+WORK EXPERIENCE
+Integration Engineer
+Marqeta
+2018 - current Oakland, CA
+Managed the design, development, implementation, and support
+of application integrations across 2 clinical and business systems
+Evaluated all systems to determine integration requirements 
+Identiﬁed trouble spots during integration process and provided
+49 solutions to restore full functionality with no errors
+Communicated with 20+ stakeholders, development teams, and
+technology vendors during design and implementation
+Software Quality Engineer
+Adobe
+2012 - 2018 San Francisco, CA
+Led test plan and code reviews with 2 teams every week
+Developed, maintained, and extended a Java-based automation
+test framework that decreased bugs by 72%
+Develop 100+ automated test suites to validate API, Back End,
+and Front End components
+Software Engineer
+Uber
+2009 - 2012 San Francisco, CA
+Highlighted best practices and areas of concern for 3 teams
+Managed support across 4 SQEs supporting a program to ensure
+SQE commitments are met
+Ensured company safety compliance for 100% of software
+lifecycle activities and products
+Staff Software Engineer
+Western Union
+2006 - 2009 San Francisco, CA
+Set and upheld standards for code quality and platform stability
+Led plans for projects for product ideas and 7 program features
+Partnered with 6 senior engineers, product design team, and 4
+managers to schedule projects and establish timelinesEDUCATION
+Bachelor of Science
+Computer Science
+Stanford University
+2002 - 2006
+Stanford, CA
+SKILLS
+HTML
+CSS
+Javascript
+React
+Angular
+PostgreSQL
+MongoDB
+Agile/Scrum/Waterfall
+Attention to Detail
+Verba Communication

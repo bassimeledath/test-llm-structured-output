@@ -1,0 +1,66 @@
+G I U L I A
+G O N Z A L E Z
+P y t h o n  D e v e l o p e r
+ggonzalez@email.com
+(123) 456-7890
+Detroit, MI
+LinkedIn
+Github
+E D U C A T I O N
+M.S.
+Computer Science
+University of Chicago
+2014 - 2016
+Chicago, IL
+B.S.
+Computer Science
+University of Pittsburgh
+2010 - 2014
+Pittsburgh, PA
+S K I L L S
+HTML/ CSS
+SQL (PostgreSQL, Oracle)
+JavaScript (Angular)
+Python (Django)
+REST APIs (GraphQL)
+AWS (Redshift, S3)
+GitW O R K  E X P E R I E N C E
+Python Developer
+DoorDash
+September 2017 - current Detroit, MI
+·Worked on building new Angular components for the customer-
+facing web app, which improved the time on page for the
+average user by 2 minutes
+·Collaborated with an agile team of 6, and helped prioritize and
+scope feature requests to ensure that the biggest impact
+features were worked on ﬁrst
+·Built extensive test coverage for all new features, which reduced
+the number of customer complaints by 23%
+·Acquired and ingested data to build and maintain data pipelines
+that led to discovering an opportunity for a new site feature,
+boosting revenue by 6%
+·Communicated with internal teams and stakeholders, working
+to determine solutions for the user experience
+Python Developer Intern
+Knewton
+April 2016 - April 2017 Chicago, IL
+·Worked alongside another developer to implement RESTful APIs
+in Django that enabled internal analytics team to increase
+reporting speed by 24%
+·Using Selenium, built out a unit testing infrastructure for a client
+web application that reduced the number of bugs reported by
+the client by 11% month over month
+·Provided project updates to leadership team of 3, and oﬀered
+recommendations for design
+·Diagnosed issues causing slow speeds in applications, and
+documented the process to making the database query system
+more robust
+·Participated in writing scalable code with a team of 4 interns
+and 1 developer for applications for a math course
+P R O J E C T S
+Cryptocurrency Price Tracker
+Creator
+·Incorporated API calls to several applications, and stored data
+eﬃciently in PostgreSQL backend
+·Utilized D3.js to allow users to dynamically visualize price
+movements over time periods of their choosing

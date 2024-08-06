@@ -1,0 +1,62 @@
+YASMIN PATEL
+Data Scientist Intern
+y.patel@email.com (123) 456-7890 Cambridge, MA
+LinkedIn
+WORK EXPERIENCE
+Retail associate
+TJ Maxx
+2022 - current Cambridge, MA
+Exceeded monthly sales targets by 22%, contributing to the
+store's recognition as a top-performing location.
+Updated store layouts to increase customer engagement with
+featured products by 48%.
+Recognized by management for providing exceptional service
+after earning an average customer satisfaction rating of 93%.
+Conducted regular stock checks using inventory management
+systems, which minimized out-of-stock incidents by 29%.
+PROJECTS
+Library assistant
+Harvard University
+2022
+Recommended personalized book titles to library patrons that
+led to 89% satisfaction ratings.
+Collaborated with local nonproﬁts to host literacy initiatives,
+growing participation by 28% per month.
+Designed captivating book displays that boosted checkouts in
+promoted genres by 47%.
+Developed a book tracking system with SQLite to improve
+cataloging accuracy, reducing data entry errors by 31%.
+Event staﬀ
+Harvard University
+2021
+Decorated venues for 42 campus events, earning an average
+satisfaction rating of 4.8/5 from attendees.
+Engaged event attendees by actively participating in crowd
+activities, which boosted guest participation by 38%.
+Scanned 1100+ tickets per event to maintain an average wait
+time of under 30 seconds for guests at entry points.
+Provided exceptional guest assistance by resolving 92% of
+inquiries on the spot.OBJECTIVE
+With a strong academic background in
+computer science from Harvard
+University and eager to kickstart my
+career as a data scientist intern at
+IBM. Proﬁcient in NumPy, Scikit-learn,
+dplyr, MySQL, SQLite, and Keras with
+hope to learn from industry experts,
+tackle complex data challenges, and
+support IBM's production of cutting-
+edge technology.
+EDUCATION
+Bachelor of Science
+Retail associateComputer Science
+Harvard University
+2020 - current
+Cambridge, MA
+SKILLS
+NumPy
+Scikit-learn
+dplyr
+MySQL
+SQLite
+Keras

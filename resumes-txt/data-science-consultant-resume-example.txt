@@ -1,0 +1,53 @@
+ALEXANDER OWENS
+Data Science Consultant
+alex.owens@email.com (123) 456-7890 Seattle, WA
+LinkedIn
+WORK EXPERIENCE
+Data Science Manager
+Zillow Group
+October 2018 - current Seattle, WA
+Reduced decision-making time by 18% by implementing
+Tableau dashboards, providing key metrics to senior managers
+Executed A/B testing experiments to evaluate the eﬀectiveness
+of diﬀerent pricing strategies that boosted revenue by 17%
+Boosted team productivity by conducting regular performance
+evaluations and mentoring junior data scientists
+Automated data extraction and transformation processes via
+SQL and Databricks, reducing data processing time by 31%
+Data Scientist
+T-Mobile US, Inc.
+May 2014 - August 2018 Bellevue, WA
+Implemented Apache Spark workﬂows for large-scale data
+processing and reduced data processing time by 34%
+Developed machine learning models via Scikit-learn to
+optimize pricing strategies for an 11% increase in revenue
+Decreased data access latency by 32% by leveraging
+Databricks to optimize data storage and retrieval
+Cut incident response time by 18% with Apache Spark
+streaming for real-time anomaly detection in network data
+Data Analyst
+Expedia Group
+April 2010 - April 2014 Bellevue, WA
+Used Informatica for data integration and improved data
+consistency across multiple platforms by 41%
+Developed a natural language processing (NLP) system with
+NLTK, resulting in a 39% reduction in manual text analysis
+Managed a large-scale data migration project using
+Informatica and ensured zero downtime plus a smooth
+transition for stakeholders
+Spearheaded the development of a churn prediction model
+using Scikit-learn that reduced customer attrition by 8%EDUCATION
+B.S.
+Data Science
+University of Washington
+September 2006 - April 2010
+Seattle, WA
+SKILLS
+SQL
+Tableau
+Scikit-learn
+Apache Spark
+SQL (Structured Query Language)
+Databricks
+NLTK (Natural Language Toolkit)
+Informatica

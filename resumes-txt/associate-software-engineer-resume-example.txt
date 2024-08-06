@@ -1,0 +1,59 @@
+T a m a r a  T u r b i n a d o
+A s s o c i a t e  S o f t w a r e  E n g i n e e r
+Proven Associate Software Engineer with 4-year Computer Science
+degree and 1+ years of experience. As a dedicated problem solver, I
+display an expert skill in JavaScript and supporting
+languages/libraries/frameworks that solve real-world problems
+through code. Through my time at Boeing, I have gained further
+hands-on experience in industry-standard development, which I'm
+looking to apply to a growing business like Amazon.Tamar@email.com
+(123) 456-7890
+San Jose, CA
+linkedin.com
+W O R K  E X P E R I E N C E
+Boeing
+Associate Software Engineer
+Mountain View, CA|July 2021 - current
+Developed, tested, debugged, and documented 33+ software
+applications
+Used established coding standards and methodologies and
+coached 2 junior engineers on best practices
+Worked within an agile scrum team, contributing to 100%
+continuous improvement and deployment (CICD)
+Designed and developed 26+ software applications based on
+user stories, requirements, and design speciﬁcations
+Documented software changes for use by 37+ engineers, quality
+assurance and documentation specialists
+P R O J E C T S
+Streamer Highlighter
+Designed mobile-ﬁrst project to help 1,300+ users discover
+smaller streamers on the Twitch.tv platform, providing a user
+experience through advanced search integration with Twitch
+Developed 100% RESTful API to control user functions using
+Express.JS with MongoDB as a persistence layer while utilizing
+React on the frontend
+Created Mobile Responsive User Experience with CSS Grids that
+integrated with Twitch API data to allow users to see viewers
+and gameplay of the streamers
+Hospitality Highlighter
+Created an application to alert 8-person staff to needed service
+at tables
+Designed an easy-to-understand-and-use front-end, enabling
+customers and staff to alert and be alerted to requests
+Implemented Hospitality Highlighter with technology like
+Express and MongoDB to manage and pass requests from the
+JavaScript/React front-endS K I L L S
+HTML
+CSS
+Bootstrap
+SASS
+JavaScript
+React
+jQuery
+E D U C A T I O N
+Bachelor of Science
+Computer Science
+San Jose State
+University
+2017 - 2021
+San Jose, CA
