@@ -79,20 +79,27 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 
 
 
-<section id="testing-llm-structured-output" class="level1">
-<h1>Testing LLM Structured Output</h1>
+<section id="testing-llm-structured-output-options" class="level1">
+<h1>Testing LLM Structured Output Options</h1>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="weave.png" class="img-fluid figure-img"></p>
 <figcaption class="figure-caption">Weave Dashboard</figcaption>
 </figure>
 </div>
-<p>This repository is dedicated to evaluating 4 options for structured Large Language Model (LLM) output using Weave. All options use GPT 4o as the base model.</p>
+<p>This repository is dedicated to evaluating 4 options for structured Large Language Model (LLM) output using Weave. All options use GPT 4o as the base model:</p>
 <ol type="1">
-<li>Zero-shot</li>
-<li>Few-shot</li>
+<li>Zero-shot (with JSON mode)</li>
+<li>Few-shot (with JSON mode)</li>
 <li><a href="https://github.com/jxnl/instructor">Instructor</a></li>
 <li><a href="https://github.com/PrefectHQ/marvin">Marvin</a></li>
+</ol>
+<p>They are compared against the following 4 metrics:</p>
+<ol type="1">
+<li>Latency</li>
+<li>Tokens consumed</li>
+<li>Completeness: whether the output adheres to the Pydantic BaseModel structure specified.</li>
+<li>Accuracy: whether the values extracted are based on the context provided.</li>
 </ol>
 <section id="getting-started" class="level2">
 <h2 class="anchored" data-anchor-id="getting-started">Getting Started</h2>
@@ -106,6 +113,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <span id="cb2-2"><a href="#cb2-2" aria-hidden="true" tabindex="-1"></a> <span class="bu">source</span> venv/bin/activate  <span class="co"># On Windows, use `venv\Scripts\activate`</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div></li>
 <li><p><strong>Install the required packages:</strong></p>
 <div class="sourceCode" id="cb3"><pre class="sourceCode sh code-with-copy"><code class="sourceCode bash"><span id="cb3-1"><a href="#cb3-1" aria-hidden="true" tabindex="-1"></a> <span class="ex">pip</span> install <span class="at">-r</span> requirements.txt</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div></li>
+<li><p><strong>Set up keys in environment:</strong> hello</p></li>
 <li><p><strong>Run the Jupyter Notebook!</strong></p></li>
 </ol>
 </section>
